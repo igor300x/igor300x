@@ -25,7 +25,7 @@
   <a href ="mailto:igor300x@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/%F0%9F%8C%90-igor-jorge-s-%F0%9F%94%8A-3a1205236/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/igor300x/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https:/rafaballerini/github.com//rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 
