@@ -19,12 +19,12 @@
   <img align="center" alt="Rafa-React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rafa-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Bootstrap" height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/bootstrap-3628663-3029888.png?f=avif&w=256">
+  <img align="center" alt="Bootstrap" height="40" width="40" src="https://icons8.com/icon/rF8HWpbMXJQS/bootstrap-a-free-and-open-source-css-framework">
   <img align="center" alt="Js" height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/git-225996.png?f=avif&w=128">
   <img align="center" alt="GitHub" height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/github-169-1174970.png?f=avif&w=128">
   <img align="center" alt="Node" height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/node-js-1-1174935.png?f=avif&w=256">
   <img align="center" alt="MongoDB" height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/mongodb-4-1175139.png?f=avif&w=128">
-  <img align="center" alt="VUEjs" height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/vuejs-3-1175070.png?f=avif&w=128">
+  <img align="center" alt="VUEjs" height="40" width="40" src="https://iconscout.com/icon/vuejs-3">
   <img align="center" alt="PostgresSQL" height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/postgresql-11-1175122.png?f=avif&w=128">
   <img align="center" alt="Express" height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/express-2-282577.png?f=avif&w=128">
 
